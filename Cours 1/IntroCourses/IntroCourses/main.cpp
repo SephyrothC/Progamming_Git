@@ -1,42 +1,43 @@
 #include <iostream>
 #include "Struct.h"
+using namespace std;
 
 int main()
 {
     Sales_Data data1, data2;
     double price = 0;
 
-    std :: cout << "ISBN : " << std :: endl;
-    std :: cin >> data1.bookName;
-    std :: cout << "Number : " << std :: endl;
-    std :: cin >> data1.units_sold;
-    std :: cout << "Price : " << std :: endl;
-    std :: cin >> price;
+    cout << "ISBN : " << endl;
+    cin >> data1.bookName;
+    cout << "Number : " << endl;
+    cin >> data1.units_sold;
+    cout << "Price : " << endl;
+    cin >> price;
     data1.revenue = data1.units_sold * price;
-    std :: cout << "Total : " << data1.revenue << std :: endl;
+    cout << "Total : " << data1.revenue << endl;
 
-    std :: cout << "ISBN : " << std :: endl;
-    std :: cin >> data2.bookName;
-    std :: cout << "Number : " << std :: endl;
-    std :: cin >> data2.units_sold;
-    std :: cout << "Price : " << std :: endl;
-    std :: cin >> price;
+    cout << "ISBN : " << endl;
+    cin >> data2.bookName;
+    cout << "Number : " << endl;
+    cin >> data2.units_sold;
+    cout << "Price : " << endl;
+    cin >> price;
     data2.revenue = data2.units_sold * price;
-    std :: cout << "Total : " << data2.revenue << std :: endl;
+    cout << "Total : " << data2.revenue << endl;
 
     if(data1.bookName == data2.bookName){
         unsigned totalCnt = data1.units_sold + data2.units_sold;
         double totalPrice = data2.revenue + data1.revenue;
 
-        std :: cout << data1.bookName << " " << totalCnt << " " << totalPrice << " ";
+        cout << data1.bookName << " " << totalCnt << " " << totalPrice << " ";
 
-        if(totalCnt != 0) std :: cout << totalPrice / totalCnt << std :: endl;
-        else std :: cout << "no sale" << std::endl;
+        if(totalCnt != 0) cout << totalPrice / totalCnt << endl;
+        else cout << "no sale" << endl;
         return 0;
 
     }
     else {
-        std :: cerr << "Data must resfer to the same ISBN " << std :: endl;
+        cerr << "Data must resfer to the same ISBN " << endl;
         return -1;
     }
 

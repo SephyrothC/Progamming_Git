@@ -2,46 +2,12 @@
 #include "Struct.h"
 using namespace std;
 
-int main()
-{
-    Sales_Data data1, data2;
-    double price = 0;
 
-    cout << "ISBN : " << endl;
-    cin >> data1.bookName;
-    cout << "Number : " << endl;
-    cin >> data1.units_sold;
-    cout << "Price : " << endl;
-    cin >> price;
-    data1.revenue = data1.units_sold * price;
-    cout << "Total : " << data1.revenue << endl;
-
-    cout << "ISBN : " << endl;
-    cin >> data2.bookName;
-    cout << "Number : " << endl;
-    cin >> data2.units_sold;
-    cout << "Price : " << endl;
-    cin >> price;
-    data2.revenue = data2.units_sold * price;
-    cout << "Total : " << data2.revenue << endl;
-
-    if(data1.bookName == data2.bookName){
-        unsigned totalCnt = data1.units_sold + data2.units_sold;
-        double totalPrice = data2.revenue + data1.revenue;
-
-        cout << data1.bookName << " " << totalCnt << " " << totalPrice << " ";
-
-        if(totalCnt != 0) cout << totalPrice / totalCnt << endl;
-        else cout << "no sale" << endl;
-        return 0;
-
+int main() {
+    int num = 100, sum = 0;
+    for (int i = 0; i <= 10; i++)
+    {
+        sum += i;
     }
-    else {
-        cerr << "Data must resfer to the same ISBN " << endl;
-        return -1;
-    }
-
-
-
-    return 0;
+    cout << num << " " << sum << endl;
 }

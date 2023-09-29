@@ -1,2 +1,4 @@
 ﻿  main.cpp
+C:\Users\asgri\OneDrive - Groupe ESIEA\Documents\3A_Seoul_Tech\Progamming_Git\Cours 1\IntroCourses\IntroCourses\main.cpp(72,43): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\asgri\OneDrive - Groupe ESIEA\Documents\3A_Seoul_Tech\Progamming_Git\Cours 1\IntroCourses\IntroCourses\main.cpp(85,15): warning C4018: '>=' : incompatibilité signed/unsigned
   IntroCourses.vcxproj -> C:\Users\asgri\OneDrive - Groupe ESIEA\Documents\3A_Seoul_Tech\Progamming_Git\Cours 1\IntroCourses\x64\Debug\IntroCourses.exe

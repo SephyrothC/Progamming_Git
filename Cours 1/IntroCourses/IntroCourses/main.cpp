@@ -1,109 +1,77 @@
 #include <iostream>
-#include <map>
 #include <random>
-#include <string>
-#include <time.h>
 #include <vector>
-
 using namespace std;
 
-// A function to search for duplicated words in a string
-void string_search() {
-
-  // create a map to store the words and their counts
-  map<string, int> word_count;
-
-  // create a string to store the input
-  string word;
-  // create a string to store the previous word
-  string last_word;
-
-  // create variables to store the most duplicated word and its count
-  string most_duplicated_word;
-  int most_duplicated_count = 0;
-  // create a variable to store the current repetition count
-  int iterator_count = 1;
-
-  // read words from standard input until an empty line (ctrl+Z)
-  while (cin >> word) {
-    // if the current word is equal to the previous word, increment the
-    // repetition count
-    if (word == last_word) {
-      iterator_count += 1;
-    }
-    // else if the previous word is not empty and has a higher repetition count
-    // than its previous value in the map, update the map
-    else if (!last_word.empty() && word_count[last_word] < iterator_count) {
-      word_count[last_word] = iterator_count;
-      // check if the previous word has a higher count than the current most
-      // duplicated word
-      if (word_count[last_word] > most_duplicated_count) {
-        // update the most duplicated word and its count
-        most_duplicated_word = last_word;
-        most_duplicated_count = word_count[last_word];
-      }
-
-      // reset the repetition count to 1
-      iterator_count = 1;
-    }
-    // else just reset the repetition count to 1
-    else {
-      iterator_count = 1;
-    }
-    // update the previous word with the current word
-    last_word = word;
-
-    // clear the current word for the next iteration
-    word.clear();
-  }
-
-  // print the result
-  if (most_duplicated_count == 0) {
-    cout << "No word was repeated.\n";
-  } else {
-    cout << "The most duplicated word is " << most_duplicated_word
-         << ", which occurred " << most_duplicated_count << " times.\n";
-  }
+// A function that takes two int pointers as parameters and swaps their values
+void swap_number_pointer(int *a, int *b) {
+  // Declare and initialize a temporary int variable
+  int tmp = 0;
+  // Store the value of a in tmp
+  tmp = *a;
+  // Assign the value of b to a
+  *a = *b;
+  // Assign the value of tmp to b
+  *b = tmp;
 }
 
-vector<unsigned int> pass_or_fail(int size, int score_to_pass) {
-
-  // Generate a random engine with a seed (current time)
-  default_random_engine random_engine(time(nullptr));
-  // Generate a uniform distribution from 0 to 100
-  uniform_int_distribution<unsigned int> score_range(0, 100);
-
-  vector<unsigned int> vec;
-
-  bool *pass = (bool *)calloc(size, sizeof(bool));
-
-  for (int i = 0; i < size; i++) {
-    unsigned int score = score_range(random_engine);
-    cout << "the score of student #" << i << " is " << score << endl;
-    vec.push_back(score);
-
-    if (score >= score_to_pass)
-      pass[i] = true;
-    else
-      pass[i] = false;
-  }
-
-  for (int i = 0; i < size; i++) {
-    cout << "Student #" << i << ":";
-    if (pass[i] == true)
-      cout << "passed" << endl;
-    else
-      cout << "failed" << endl;
-  }
-
-  return vec;
+// A function that takes two int references as parameters and swaps their values
+void swap_number_reference(int &a, int &b) {
+  // Store the value of a in a temporary variable
+  int temp = a;
+  // Assign the value of b to a
+  a = b;
+  // Assign the value of temp to b
+  b = temp;
 }
 
-int main(int argc, const char **argv) {
+// A function that takes two int parameters and returns their greatest common
+// divisor (GCD)
+int gcd(int a, int b) {
+  // If b is zero, then a is the GCD
+  if (b == 0)
+    return a;
+  // Otherwise, recursively call the function with b and the remainder of a
+  // divided by b
+  return gcd(b, a % b);
+}
 
-  // string_search();
+// This is a test program to demonstrate the functions
+int main() {
+  // Declare and initialize two int variables
+  int x = 10;
+  int y = 20;
+  // Print their values before swapping
+  cout << "Before swapping: x = " << x << ", y = " << y << endl;
+  // Call the swap function with the addresses of x and y
+  swap_number_pointer(&x, &y);
+  // Print their values after swapping
+  cout << "After swapping with pointer: x = " << x << ", y = " << y << endl;
+  // Reinitialize two int variables
+  x = 10;
+  y = 20;
+  // Call the swap function with the addresses of x and y
+  swap_number_reference(x, y);
+  // Print their values after swapping
+  cout << "After swapping with reference: x = " << x << ", y = " << y << endl;
 
-  pass_or_fail(30, 60);
+  // Answer to the question 7 :
+  //   I perfer to use pointer insted of reference but :
+  //
+  //   - Pointers can be NULL, reassigned, and offer multiple indirection.
+  //     References cannot.
+  //
+  //   - References are safer, easier, and can overload operators. Pointers
+  //     cannot.
+  //
+  //   So normally Reference is better
+
+  // Declare and initialize two int variables
+  int a = 48;
+  int b = 18;
+  // Print their values before swapping
+  cout << endl << "gcd(" << a << "," << b << ") = " << gcd(a, b) << endl;
+  // Call the swap function with the addresses of x and y
 
   return 0;
 }

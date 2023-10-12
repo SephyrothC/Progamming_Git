@@ -27,13 +27,26 @@ void swap_number_reference(int &a, int &b) {
 
 // A function that takes two int parameters and returns their greatest common
 // divisor (GCD)
-int gcd(int a, int b) {
+int gcd_loop(int a, int b) {
+  int res = 0, tmp = 0;
+  while (b != 0) {
+    tmp = b;
+    b = a % b;
+    a = tmp;
+    res = a;
+  }
+  return res;
+}
+
+// A function that takes two int parameters and returns their greatest common
+// divisor (GCD)
+int gcd_rec(int a, int b) {
   // If b is zero, then a is the GCD
   if (b == 0)
     return a;
   // Otherwise, recursively call the function with b and the remainder of a
   // divided by b
-  return gcd(b, a % b);
+  return gcd_rec(b, a % b);
 }
 
 // This is a test program to demonstrate the functions
@@ -70,7 +83,15 @@ int main() {
   int a = 48;
   int b = 18;
   // Print their values before swapping
-  cout << endl << "gcd(" << a << "," << b << ") = " << gcd(a, b) << endl;
+  cout << endl
+       << "gcd_rec(" << a << "," << b << ") = " << gcd_rec(a, b) << endl;
+  // Call the swap function with the addresses of x and y
+  // Declare and initialize two int variables
+  a = 48;
+  b = 18;
+  // Print their values before swapping
+  cout << endl
+       << "gcd_loop(" << a << "," << b << ") = " << gcd_loop(a, b) << endl;
   // Call the swap function with the addresses of x and y
 
   return 0;

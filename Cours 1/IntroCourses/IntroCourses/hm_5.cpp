@@ -1,6 +1,9 @@
 #include <functional>
 #include <iostream>
 #include <vector>
+
+#include "hm_5_screen.h"
+
 using namespace std;
 
 typedef int (*FuncPtr)(int, int);
@@ -30,34 +33,36 @@ int put_in_vector(int a, int b) {
   return 0;
 }
 
-class Screen {
-public:
-  typedef std::string::size_type pos;
-  Screen() = default;
-  char get() const { return contents[cursor]; }
-  inline char get(pos ht, pos wd) const;
-  Screen &move(pos r, pos c);
-
-private:
-  pos cursor = 0;
-  pos height = 0, width = 0;
-  std::string contents;
-};
-
-// function to move the cursor within a row
-Screen &Screen::move(pos r, pos c) {
-  pos row = r * width; // compute row location
-  cursor = row + c;    // move cursor to column within that row
-  return *this;        // return this object as an lvalue
-}
-
-// function to get the character at a given location
-char Screen::get(pos r, pos c) const {
-  pos row = r * width;      // compute row location
-  return contents[row + c]; // return character at the given column
-}
-
 int main(int argc, const char **argv) {
-  put_in_vector(3, 5);
+  // Q6
+  // put_in_vector(3, 5);
+
+  // Q17
+  Screen myScreen(5, 5, 'X');
+  myScreen.move(4, 0).set('#').display(cout);
+  cout << "\n";
+  myScreen.display(cout);
+  cout << "\n";
+
+  // 1. **Performance**: Returning a copy of an object, especially a large one,
+  // can be less efficient because it involves copying all the data members of
+  // the object.
+
+  // 2. **Chaining**: One common reason to return a reference is to allow
+  // function chaining. For example, with the current design you can write code
+  // like this: `myScreen.move(4,0).set('#');` This code moves the cursor and
+  // then sets the character at the new position. If `move` returned a copy of
+  // `Screen`, this code wouldn't work as expected. It would move the cursor in
+  // the copy of the screen, set the character in that copy, and then discard
+  // the copy, leaving the original `Screen` object unchanged.
+
+  // 3. **Consistency**: If some functions return a copy and others return a
+  // reference, it can lead to confusion about which version of the object (the
+  // original or the copy) is being modified in any given piece of code.
+
+  // So, while it's technically possible to change these functions to return
+  // `Screen` instead of `Screen&`, doing so could lead to unexpected behavior
+  // and performance issues.
+
   return 0;
 }

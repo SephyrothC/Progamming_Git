@@ -4,7 +4,8 @@ using namespace std;
 
 class Screen {
 public:
-  typedef string::size_type pos;
+
+  using pos = string::size_type;
 
   // Default constructor
   Screen() = default;
@@ -18,7 +19,7 @@ public:
 
   // get function
   char get() const { return contents[cursor]; }
-  inline char get(pos ht, pos wd) const;
+  char get(pos ht, pos wd) const;
 
   // move function
   Screen &move(pos r, pos c);
@@ -39,7 +40,8 @@ public:
 
 private:
   pos cursor = 0;
-  pos height = 0, width = 0;
+  pos height = 0;
+  pos width = 0;
   string contents;
   void do_display(ostream &os) const { os << contents; }
 };
@@ -60,7 +62,7 @@ inline Screen &Screen::move(pos r, pos c) {
   return *this;        // return this object as an Ivalue
 }
 
-char Screen::get(pos r, pos c) const { // declared as inline in the class
+inline char Screen::get(pos r, pos c) const { // declared as inline in the class
   pos row = r * width;                 // compute row location
   return contents[row + c];            // return character at the given column
 }

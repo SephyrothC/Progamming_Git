@@ -35,7 +35,7 @@ int put_in_vector(int a, int b) {
 
 int main(int argc, const char **argv) {
   // Q6
-  // put_in_vector(3, 5);
+  put_in_vector(3, 5);
 
   // Q17
   Screen myScreen(5, 5, 'X');

@@ -6,7 +6,7 @@
 
 using namespace std;
 
-typedef int (*FuncPtr)(int, int);
+using FuncPtr = int (*)(int, int);
 
 // Function to add two integers
 int add(int a, int b) { return a + b; }
@@ -25,7 +25,7 @@ int divide(int a, int b) {
     return 0; // Return 0 if denominator is 0
 }
 
-int put_in_vector(int a, int b) {
+int put_in_vector() {
   vector<FuncPtr> v = {add, subtract, multiply, divide};
   for (size_t i = 0; i < 4; i++) {
     cout << v[i] << " ";
@@ -35,7 +35,7 @@ int put_in_vector(int a, int b) {
 
 int main(int argc, const char **argv) {
   // Q6
-  // put_in_vector(3, 5);
+  put_in_vector();
 
   // Q17
   Screen myScreen(5, 5, 'X');

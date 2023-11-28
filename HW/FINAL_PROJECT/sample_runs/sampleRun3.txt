@@ -1,0 +1,918 @@
+[[[Red Light Green Light]]]
+[Turn #1]
+Player #22(80,24) fell down and died.
+Player #36(65,82) fell down and died.
+Player #73(72,96) fell down and died.
+Player #108(38,32) fell down and died.
+Player #184(53,86) fell down and died.
+Player #220(81,98) fell down and died.
+Player #225(97,64) fell down and died.
+Player #267(32,64) fell down and died.
+Player #274(95,37) fell down and died.
+Player #310(61,69) fell down and died.
+Player #332(80,84) fell down and died.
+Player #337(19,91) fell down and died.
+Player #351(15,90) fell down and died.
+Player #362(33,88) fell down and died.
+Player #395(3,83) fell down and died.
+Player #396(49,86) fell down and died.
+Player #400(64,97) fell down and died.
+Player #419(2,93) fell down and died.
+Player #422(98,68) fell down and died.
+Player #439(22,60) fell down and died.
+Player #444(65,68) fell down and died.
+[Turn #2]
+Player #29(2,71) fell down and died.
+Player #33(96,42) fell down and died.
+Player #44(8,85) fell down and died.
+Player #126(23,62) fell down and died.
+Player #132(19,90) fell down and died.
+Player #137(31,81) fell down and died.
+Player #150(75,31) fell down and died.
+Player #159(99,97) fell down and died.
+Player #193(73,70) fell down and died.
+Player #233(50,64) fell down and died.
+Player #243(83,59) fell down and died.
+Player #282(35,86) fell down and died.
+Player #292(87,93) fell down and died.
+Player #308(50,70) fell down and died.
+Player #366(97,95) fell down and died.
+Player #375(92,41) fell down and died.
+Player #379(20,85) fell down and died.
+Player #393(28,48) fell down and died.
+Player #394(79,75) fell down and died.
+Player #402(8,55) fell down and died.
+Player #404(18,28) fell down and died.
+Player #433(65,34) fell down and died.
+Player #453(47,67) fell down and died.
+[Turn #3]
+Player #123(87,43) fell down and died.
+Player #174(57,89) fell down and died.
+Player #226(1,47) fell down and died.
+Player #227(30,86) fell down and died.
+Player #260(61,93) fell down and died.
+Player #323(49,69) fell down and died.
+Player #331(6,96) fell down and died.
+Player #406(6,70) fell down and died.
+Player #409(72,25) fell down and died.
+Player #410(37,99) fell down and died.
+[Turn #4]
+Player #35(13,79) fell down and died.
+Player #79(3,21) fell down and died.
+Player #90(65,88) fell down and died.
+Player #93(98,21) fell down and died.
+Player #117(38,33) fell down and died.
+Player #119(94,36) fell down and died.
+Player #121(74,59) fell down and died.
+Player #140(54,44) fell down and died.
+Player #151(7,86) fell down and died.
+Player #161(98,75) fell down and died.
+Player #175(14,18) fell down and died.
+Player #183(98,95) fell down and died.
+Player #186(93,88) fell down and died.
+Player #201(88,78) fell down and died.
+Player #231(28,55) fell down and died.
+Player #242(33,19) fell down and died.
+Player #324(37,70) fell down and died.
+Player #427(94,89) fell down and died.
+Player #437(6,44) fell down and died.
+Player #443(44,82) fell down and died.
+[Turn #5]
+Player #4(100,92) fell down and died.
+Player #10(61,64) fell down and died.
+Player #12(89,82) fell down and died.
+Player #61(18,89) fell down and died.
+Player #66(47,56) fell down and died.
+Player #81(32,69) fell down and died.
+Player #101(81,50) fell down and died.
+Player #110(39,91) fell down and died.
+Player #116(10,64) fell down and died.
+Player #133(91,91) fell down and died.
+Player #147(97,78) fell down and died.
+Player #171(50,60) fell down and died.
+Player #293(2,88) fell down and died.
+Player #344(58,98) fell down and died.
+Player #398(89,34) fell down and died.
+Player #399(37,23) fell down and died.
+Player #432(32,90) fell down and died.
+[Turn #6]
+Player #5(16,99) fell down and died.
+Player #14(5,73) fell down and died.
+Player #20(82,72) fell down and died.
+Player #37(12,50) fell down and died.
+Player #48(13,86) fell down and died.
+Player #70(91,23) fell down and died.
+Player #71(93,88) safely escaped from the ground.
+Player #83(95,94) safely escaped from the ground.
+Player #86(96,94) fell down and died.
+Player #88(12,85) fell down and died.
+Player #124(87,95) safely escaped from the ground.
+Player #134(5,80) fell down and died.
+Player #165(85,94) safely escaped from the ground.
+Player #191(56,73) fell down and died.
+Player #192(87,100) safely escaped from the ground.
+Player #195(3,100) fell down and died.
+Player #246(97,91) fell down and died.
+Player #281(97,88) safely escaped from the ground.
+Player #306(50,80) fell down and died.
+Player #319(91,78) fell down and died.
+Player #342(30,86) fell down and died.
+Player #350(96,47) fell down and died.
+Player #372(88,99) safely escaped from the ground.
+Player #381(6,58) fell down and died.
+Player #390(96,85) safely escaped from the ground.
+Player #411(24,93) fell down and died.
+Player #418(24,70) fell down and died.
+Player #426(6,91) fell down and died.
+Player #448(95,96) safely escaped from the ground.
+Player #455(91,97) safely escaped from the ground.
+Player #456(0,5) fell down and died.
+[Turn #7]
+Player #9(4,48) fell down and died.
+Player #17(90,66) safely escaped from the ground.
+Player #19(96,60) safely escaped from the ground.
+Player #49(88,95) safely escaped from the ground.
+Player #58(75,95) safely escaped from the ground.
+Player #62(79,36) fell down and died.
+Player #76(100,71) safely escaped from the ground.
+Player #97(85,83) safely escaped from the ground.
+Player #122(87,90) safely escaped from the ground.
+Player #128(90,93) safely escaped from the ground.
+Player #141(22,22) fell down and died.
+Player #160(82,85) safely escaped from the ground.
+Player #166(42,99) fell down and died.
+Player #205(79,91) safely escaped from the ground.
+Player #218(88,88) safely escaped from the ground.
+Player #222(95,76) safely escaped from the ground.
+Player #235(82,16) fell down and died.
+Player #254(37,9) fell down and died.
+Player #269(60,86) fell down and died.
+Player #298(91,90) safely escaped from the ground.
+Player #318(84,80) safely escaped from the ground.
+Player #354(67,18) fell down and died.
+Player #373(80,28) fell down and died.
+Player #391(73,96) safely escaped from the ground.
+Player #392(69,21) fell down and died.
+Player #421(51,79) fell down and died.
+Player #431(42,82) fell down and died.
+Player #445(77,88) safely escaped from the ground.
+Player #451(90,91) safely escaped from the ground.
+[Turn #8]
+Player #84(53,68) fell down and died.
+Player #118(47,90) fell down and died.
+Player #198(80,24) fell down and died.
+Player #212(4,61) fell down and died.
+Player #229(56,22) fell down and died.
+Player #232(80,71) fell down and died.
+Player #270(73,93) safely escaped from the ground.
+Player #289(97,41) safely escaped from the ground.
+Player #295(10,84) fell down and died.
+Player #335(24,57) fell down and died.
+Player #412(76,65) safely escaped from the ground.
+Player #417(95,56) safely escaped from the ground.
+Player #425(62,95) safely escaped from the ground.
+Player #441(40,58) fell down and died.
+[Turn #9]
+Player #3(99,43) safely escaped from the ground.
+Player #8(62,85) safely escaped from the ground.
+Player #31(29,7) fell down and died.
+Player #39(85,57) safely escaped from the ground.
+Player #69(73,51) fell down and died.
+Player #78(67,72) safely escaped from the ground.
+Player #127(84,52) safely escaped from the ground.
+Player #142(87,60) safely escaped from the ground.
+Player #157(90,53) safely escaped from the ground.
+Player #176(3,93) fell down and died.
+Player #188(88,60) safely escaped from the ground.
+Player #190(9,79) fell down and died.
+Player #213(87,18) fell down and died.
+Player #251(58,100) safely escaped from the ground.
+Player #258(99,42) safely escaped from the ground.
+Player #268(72,87) safely escaped from the ground.
+Player #271(61,40) fell down and died.
+Player #272(62,85) safely escaped from the ground.
+Player #288(96,56) safely escaped from the ground.
+Player #297(91,55) safely escaped from the ground.
+Player #325(61,85) safely escaped from the ground.
+Player #349(86,54) safely escaped from the ground.
+Player #358(59,98) safely escaped from the ground.
+Player #361(16,41) fell down and died.
+Player #371(84,52) safely escaped from the ground.
+[Turn #10]
+Player #27(87,47) safely escaped from the ground.
+Player #30(98,13) safely escaped from the ground.
+Player #32(70,40) fell down and died.
+Player #34(62,56) fell down and died.
+Player #43(5,98) fell down and died.
+Player #45(81,48) safely escaped from the ground.
+Player #47(96,8) safely escaped from the ground.
+Player #102(72,43) fell down and died.
+Player #104(26,28) fell down and died.
+Player #113(94,36) safely escaped from the ground.
+Player #130(80,38) safely escaped from the ground.
+Player #131(61,71) fell down and died.
+Player #152(38,83) fell down and died.
+Player #170(49,44) fell down and died.
+Player #180(29,73) fell down and died.
+Player #185(57,88) safely escaped from the ground.
+Player #197(81,63) safely escaped from the ground.
+Player #204(95,43) safely escaped from the ground.
+Player #208(97,33) safely escaped from the ground.
+Player #210(79,67) safely escaped from the ground.
+Player #211(91,47) safely escaped from the ground.
+Player #223(43,23) fell down and died.
+Player #245(95,20) safely escaped from the ground.
+Player #290(100,2) safely escaped from the ground.
+Player #300(66,65) safely escaped from the ground.
+Player #301(96,25) safely escaped from the ground.
+Player #304(26,38) fell down and died.
+Player #305(38,89) fell down and died.
+Player #309(51,42) fell down and died.
+Player #314(57,97) safely escaped from the ground.
+Player #330(82,41) safely escaped from the ground.
+Player #336(89,30) safely escaped from the ground.
+Player #348(21,41) fell down and died.
+Player #380(83,35) safely escaped from the ground.
+Player #388(95,30) safely escaped from the ground.
+Player #397(91,2) fell down and died.
+Player #405(49,96) safely escaped from the ground.
+Player #423(75,60) safely escaped from the ground.
+Player #446(96,18) safely escaped from the ground.
+[Turn #11]
+Player #51(65,73) safely escaped from the ground.
+Player #59(40,19) fell down and died.
+Player #68(5,27) fell down and died.
+Player #95(86,0) safely escaped from the ground.
+Player #114(69,59) safely escaped from the ground.
+Player #138(53,92) safely escaped from the ground.
+Player #143(0,74) fell down and died.
+Player #154(73,34) fell down and died.
+Player #167(89,29) safely escaped from the ground.
+Player #173(76,45) fell down and died.
+Player #181(52,82) safely escaped from the ground.
+Player #228(10,20) fell down and died.
+Player #248(6,63) fell down and died.
+Player #249(90,3) safely escaped from the ground.
+Player #257(68,44) fell down and died.
+Player #266(87,8) safely escaped from the ground.
+Player #307(83,33) safely escaped from the ground.
+Player #311(57,76) safely escaped from the ground.
+Player #313(83,29) safely escaped from the ground.
+Player #317(38,56) fell down and died.
+Player #321(90,5) safely escaped from the ground.
+Player #327(69,63) safely escaped from the ground.
+Player #329(71,40) safely escaped from the ground.
+Player #341(87,2) safely escaped from the ground.
+Player #368(92,1) safely escaped from the ground.
+Player #374(60,76) safely escaped from the ground.
+Player #383(61,65) safely escaped from the ground.
+Player #385(86,15) safely escaped from the ground.
+Player #413(22,74) fell down and died.
+Player #416(60,48) fell down and died.
+Player #436(76,32) safely escaped from the ground.
+[Turn #12]
+Player #1(54,68) safely escaped from the ground.
+Player #26(1,63) fell down and died.
+Player #38(82,10) safely escaped from the ground.
+Player #40(8,85) fell down and died.
+Player #53(67,24) fell down and died.
+Player #106(78,15) safely escaped from the ground.
+Player #111(71,49) safely escaped from the ground.
+Player #120(75,23) safely escaped from the ground.
+Player #178(49,79) safely escaped from the ground.
+Player #206(54,29) fell down and died.
+Player #237(62,17) fell down and died.
+Player #244(77,12) safely escaped from the ground.
+Player #276(80,25) safely escaped from the ground.
+Player #343(76,39) safely escaped from the ground.
+Player #415(83,15) safely escaped from the ground.
+[Turn #13]
+Player #25(67,33) safely escaped from the ground.
+Player #56(2,76) fell down and died.
+Player #74(36,79) fell down and died.
+Player #77(17,39) fell down and died.
+Player #107(78,1) safely escaped from the ground.
+Player #145(75,6) safely escaped from the ground.
+Player #153(67,30) safely escaped from the ground.
+Player #158(1,53) fell down and died.
+Player #207(34,58) fell down and died.
+Player #240(56,43) fell down and died.
+Player #283(5,24) fell down and died.
+Player #312(54,69) safely escaped from the ground.
+Player #345(74,8) safely escaped from the ground.
+Player #355(66,45) safely escaped from the ground.
+Player #407(74,3) safely escaped from the ground.
+Player #447(39,99) safely escaped from the ground.
+[Turn #14]
+Player #15(71,1) safely escaped from the ground.
+Player #55(59,37) safely escaped from the ground.
+Player #91(52,54) safely escaped from the ground.
+Player #105(49,67) fell down and died.
+Player #129(37,90) safely escaped from the ground.
+Player #136(67,30) safely escaped from the ground.
+Player #139(68,2) safely escaped from the ground.
+Player #148(63,27) safely escaped from the ground.
+Player #162(67,8) safely escaped from the ground.
+Player #215(66,20) safely escaped from the ground.
+Player #238(68,36) safely escaped from the ground.
+Player #256(67,33) safely escaped from the ground.
+Player #377(67,26) safely escaped from the ground.
+[Turn #15]
+Player #2(54,13) fell down and died.
+Player #16(41,76) safely escaped from the ground.
+Player #92(38,77) fell down and died.
+Player #172(63,24) safely escaped from the ground.
+Player #187(11,25) fell down and died.
+Player #203(50,61) fell down and died.
+Player #216(65,5) safely escaped from the ground.
+Player #261(60,26) safely escaped from the ground.
+Player #273(60,14) safely escaped from the ground.
+Player #284(55,23) fell down and died.
+Player #285(27,25) fell down and died.
+Player #328(27,52) fell down and died.
+Player #357(62,11) safely escaped from the ground.
+Player #384(53,59) safely escaped from the ground.
+Player #429(66,7) safely escaped from the ground.
+Player #438(64,2) safely escaped from the ground.
+[Turn #16]
+Player #7(48,50) safely escaped from the ground.
+Player #23(43,46) fell down and died.
+Player #24(47,17) fell down and died.
+Player #103(48,58) safely escaped from the ground.
+Player #112(12,87) fell down and died.
+Player #221(46,46) safely escaped from the ground.
+Player #230(60,10) safely escaped from the ground.
+Player #287(54,42) safely escaped from the ground.
+Player #315(57,2) safely escaped from the ground.
+[Turn #17]
+Player #42(56,6) safely escaped from the ground.
+Player #202(26,89) fell down and died.
+Player #294(54,7) safely escaped from the ground.
+Player #340(30,10) fell down and died.
+Player #401(27,48) fell down and died.
+Player #430(1,67) fell down and died.
+[Turn #18]
+Player #6(49,32) safely escaped from the ground.
+Player #18(46,38) safely escaped from the ground.
+Player #182(41,62) safely escaped from the ground.
+Player #209(38,59) safely escaped from the ground.
+Player #236(27,79) fell down and died.
+Player #277(12,5) fell down and died.
+Player #291(54,12) safely escaped from the ground.
+Player #296(28,93) safely escaped from the ground.
+Player #387(45,37) safely escaped from the ground.
+[Turn #19]
+Player #60(45,24) safely escaped from the ground.
+Player #189(49,9) fell down and died.
+Player #200(48,11) safely escaped from the ground.
+Player #280(2,23) fell down and died.
+Player #286(50,0) safely escaped from the ground.
+Player #326(49,21) safely escaped from the ground.
+Player #370(25,99) safely escaped from the ground.
+Player #420(44,33) safely escaped from the ground.
+Player #452(27,34) fell down and died.
+[Turn #20]
+Player #28(44,14) safely escaped from the ground.
+Player #94(47,4) safely escaped from the ground.
+Player #164(43,29) safely escaped from the ground.
+Player #219(32,51) fell down and died.
+Player #333(48,21) safely escaped from the ground.
+Player #360(36,59) safely escaped from the ground.
+Player #363(5,88) fell down and died.
+Player #364(47,18) safely escaped from the ground.
+[Game Over]
+Player #11(19,14) is still on the ground and died.
+Player #13(0,52) is still on the ground and died.
+Player #21(21,7) is still on the ground and died.
+Player #41(9,32) is still on the ground and died.
+Player #46(19,0) is still on the ground and died.
+Player #50(33,48) is still on the ground and died.
+Player #52(13,51) is still on the ground and died.
+Player #54(4,37) is still on the ground and died.
+Player #57(37,12) is still on the ground and died.
+Player #63(31,6) is still on the ground and died.
+Player #64(17,10) is still on the ground and died.
+Player #65(28,14) is still on the ground and died.
+Player #67(13,59) is still on the ground and died.
+Player #72(19,44) is still on the ground and died.
+Player #75(23,26) is still on the ground and died.
+Player #80(17,41) is still on the ground and died.
+Player #82(43,6) is still on the ground and died.
+Player #85(11,9) is still on the ground and died.
+Player #87(20,6) is still on the ground and died.
+Player #89(20,30) is still on the ground and died.
+Player #96(12,8) is still on the ground and died.
+Player #98(11,15) is still on the ground and died.
+Player #99(3,5) is still on the ground and died.
+Player #100(25,20) is still on the ground and died.
+Player #109(19,23) is still on the ground and died.
+Player #115(35,6) is still on the ground and died.
+Player #125(29,3) is still on the ground and died.
+Player #135(33,33) is still on the ground and died.
+Player #144(10,24) is still on the ground and died.
+Player #146(6,27) is still on the ground and died.
+Player #149(24,10) is still on the ground and died.
+Player #155(12,6) is still on the ground and died.
+Player #156(33,41) is still on the ground and died.
+Player #163(33,7) is still on the ground and died.
+Player #168(9,87) is still on the ground and died.
+Player #169(35,4) is still on the ground and died.
+Player #177(24,85) is still on the ground and died.
+Player #179(13,16) is still on the ground and died.
+Player #194(31,19) is still on the ground and died.
+Player #196(12,16) is still on the ground and died.
+Player #199(37,14) is still on the ground and died.
+Player #214(1,36) is still on the ground and died.
+Player #217(29,1) is still on the ground and died.
+Player #224(37,6) is still on the ground and died.
+Player #234(23,4) is still on the ground and died.
+Player #239(41,18) is still on the ground and died.
+Player #241(18,16) is still on the ground and died.
+Player #247(23,77) is still on the ground and died.
+Player #250(24,11) is still on the ground and died.
+Player #252(23,12) is still on the ground and died.
+Player #253(0,32) is still on the ground and died.
+Player #255(33,8) is still on the ground and died.
+Player #259(3,11) is still on the ground and died.
+Player #262(12,2) is still on the ground and died.
+Player #263(31,69) is still on the ground and died.
+Player #264(14,11) is still on the ground and died.
+Player #265(37,6) is still on the ground and died.
+Player #275(3,55) is still on the ground and died.
+Player #278(22,6) is still on the ground and died.
+Player #279(11,79) is still on the ground and died.
+Player #299(5,51) is still on the ground and died.
+Player #302(28,6) is still on the ground and died.
+Player #303(15,18) is still on the ground and died.
+Player #316(15,56) is still on the ground and died.
+Player #320(30,61) is still on the ground and died.
+Player #322(31,53) is still on the ground and died.
+Player #334(1,3) is still on the ground and died.
+Player #338(15,6) is still on the ground and died.
+Player #339(25,13) is still on the ground and died.
+Player #346(42,13) is still on the ground and died.
+Player #347(24,4) is still on the ground and died.
+Player #352(33,2) is still on the ground and died.
+Player #353(8,35) is still on the ground and died.
+Player #356(29,51) is still on the ground and died.
+Player #359(8,1) is still on the ground and died.
+Player #365(23,22) is still on the ground and died.
+Player #367(14,21) is still on the ground and died.
+Player #369(40,3) is still on the ground and died.
+Player #376(25,74) is still on the ground and died.
+Player #378(1,72) is still on the ground and died.
+Player #382(25,3) is still on the ground and died.
+Player #386(10,30) is still on the ground and died.
+Player #389(10,34) is still on the ground and died.
+Player #403(33,10) is still on the ground and died.
+Player #408(3,15) is still on the ground and died.
+Player #414(18,76) is still on the ground and died.
+Player #424(8,12) is still on the ground and died.
+Player #428(21,7) is still on the ground and died.
+Player #434(15,7) is still on the ground and died.
+Player #435(33,36) is still on the ground and died.
+Player #440(15,80) is still on the ground and died.
+Player #442(20,82) is still on the ground and died.
+Player #449(2,25) is still on the ground and died.
+Player #450(15,79) is still on the ground and died.
+Player #454(8,94) is still on the ground and died.
+Player #1(54,68) is alive.
+Player #3(99,43) is alive.
+Player #6(49,32) is alive.
+Player #7(48,50) is alive.
+Player #8(62,85) is alive.
+Player #15(71,1) is alive.
+Player #16(41,76) is alive.
+Player #17(90,66) is alive.
+Player #18(46,38) is alive.
+Player #19(96,60) is alive.
+Player #25(67,33) is alive.
+Player #27(87,47) is alive.
+Player #28(44,14) is alive.
+Player #30(98,13) is alive.
+Player #38(82,10) is alive.
+Player #39(85,57) is alive.
+Player #42(56,6) is alive.
+Player #45(81,48) is alive.
+Player #47(96,8) is alive.
+Player #49(88,95) is alive.
+Player #51(65,73) is alive.
+Player #55(59,37) is alive.
+Player #58(75,95) is alive.
+Player #60(45,24) is alive.
+Player #71(93,88) is alive.
+Player #76(100,71) is alive.
+Player #78(67,72) is alive.
+Player #83(95,94) is alive.
+Player #91(52,54) is alive.
+Player #94(47,4) is alive.
+Player #95(86,0) is alive.
+Player #97(85,83) is alive.
+Player #103(48,58) is alive.
+Player #106(78,15) is alive.
+Player #107(78,1) is alive.
+Player #111(71,49) is alive.
+Player #113(94,36) is alive.
+Player #114(69,59) is alive.
+Player #120(75,23) is alive.
+Player #122(87,90) is alive.
+Player #124(87,95) is alive.
+Player #127(84,52) is alive.
+Player #128(90,93) is alive.
+Player #129(37,90) is alive.
+Player #130(80,38) is alive.
+Player #136(67,30) is alive.
+Player #138(53,92) is alive.
+Player #139(68,2) is alive.
+Player #142(87,60) is alive.
+Player #145(75,6) is alive.
+Player #148(63,27) is alive.
+Player #153(67,30) is alive.
+Player #157(90,53) is alive.
+Player #160(82,85) is alive.
+Player #162(67,8) is alive.
+Player #164(43,29) is alive.
+Player #165(85,94) is alive.
+Player #167(89,29) is alive.
+Player #172(63,24) is alive.
+Player #178(49,79) is alive.
+Player #181(52,82) is alive.
+Player #182(41,62) is alive.
+Player #185(57,88) is alive.
+Player #188(88,60) is alive.
+Player #192(87,100) is alive.
+Player #197(81,63) is alive.
+Player #200(48,11) is alive.
+Player #204(95,43) is alive.
+Player #205(79,91) is alive.
+Player #208(97,33) is alive.
+Player #209(38,59) is alive.
+Player #210(79,67) is alive.
+Player #211(91,47) is alive.
+Player #215(66,20) is alive.
+Player #216(65,5) is alive.
+Player #218(88,88) is alive.
+Player #221(46,46) is alive.
+Player #222(95,76) is alive.
+Player #230(60,10) is alive.
+Player #238(68,36) is alive.
+Player #244(77,12) is alive.
+Player #245(95,20) is alive.
+Player #249(90,3) is alive.
+Player #251(58,100) is alive.
+Player #256(67,33) is alive.
+Player #258(99,42) is alive.
+Player #261(60,26) is alive.
+Player #266(87,8) is alive.
+Player #268(72,87) is alive.
+Player #270(73,93) is alive.
+Player #272(62,85) is alive.
+Player #273(60,14) is alive.
+Player #276(80,25) is alive.
+Player #281(97,88) is alive.
+Player #286(50,0) is alive.
+Player #287(54,42) is alive.
+Player #288(96,56) is alive.
+Player #289(97,41) is alive.
+Player #290(100,2) is alive.
+Player #291(54,12) is alive.
+Player #294(54,7) is alive.
+Player #296(28,93) is alive.
+Player #297(91,55) is alive.
+Player #298(91,90) is alive.
+Player #300(66,65) is alive.
+Player #301(96,25) is alive.
+Player #307(83,33) is alive.
+Player #311(57,76) is alive.
+Player #312(54,69) is alive.
+Player #313(83,29) is alive.
+Player #314(57,97) is alive.
+Player #315(57,2) is alive.
+Player #318(84,80) is alive.
+Player #321(90,5) is alive.
+Player #325(61,85) is alive.
+Player #326(49,21) is alive.
+Player #327(69,63) is alive.
+Player #329(71,40) is alive.
+Player #330(82,41) is alive.
+Player #333(48,21) is alive.
+Player #336(89,30) is alive.
+Player #341(87,2) is alive.
+Player #343(76,39) is alive.
+Player #345(74,8) is alive.
+Player #349(86,54) is alive.
+Player #355(66,45) is alive.
+Player #357(62,11) is alive.
+Player #358(59,98) is alive.
+Player #360(36,59) is alive.
+Player #364(47,18) is alive.
+Player #368(92,1) is alive.
+Player #370(25,99) is alive.
+Player #371(84,52) is alive.
+Player #372(88,99) is alive.
+Player #374(60,76) is alive.
+Player #377(67,26) is alive.
+Player #380(83,35) is alive.
+Player #383(61,65) is alive.
+Player #384(53,59) is alive.
+Player #385(86,15) is alive.
+Player #387(45,37) is alive.
+Player #388(95,30) is alive.
+Player #390(96,85) is alive.
+Player #391(73,96) is alive.
+Player #405(49,96) is alive.
+Player #407(74,3) is alive.
+Player #412(76,65) is alive.
+Player #415(83,15) is alive.
+Player #417(95,56) is alive.
+Player #420(44,33) is alive.
+Player #423(75,60) is alive.
+Player #425(62,95) is alive.
+Player #429(66,7) is alive.
+Player #436(76,32) is alive.
+Player #438(64,2) is alive.
+Player #445(77,88) is alive.
+Player #446(96,18) is alive.
+Player #447(39,99) is alive.
+Player #448(95,96) is alive.
+Player #451(90,91) is alive.
+Player #455(91,97) is alive.
+161 players are alive.
+
+[[[Rock Paper Scissors]]]
+Player #3(99,43) died.
+Player #6(49,32) died.
+Player #15(71,1) died.
+Player #18(46,38) died.
+Player #25(67,33) died.
+Player #27(87,47) died.
+Player #30(98,13) died.
+Player #39(85,57) died.
+Player #42(56,6) died.
+Player #47(96,8) died.
+Player #49(88,95) died.
+Player #51(65,73) died.
+Player #55(59,37) died.
+Player #60(45,24) died.
+Player #76(100,71) died.
+Player #78(67,72) died.
+Player #83(95,94) died.
+Player #95(86,0) died.
+Player #97(85,83) died.
+Player #103(48,58) died.
+Player #111(71,49) died.
+Player #114(69,59) died.
+Player #122(87,90) died.
+Player #124(87,95) died.
+Player #127(84,52) died.
+Player #130(80,38) died.
+Player #138(53,92) died.
+Player #153(67,30) died.
+Player #165(85,94) died.
+Player #178(49,79) died.
+Player #188(88,60) died.
+Player #192(87,100) died.
+Player #197(81,63) died.
+Player #200(48,11) died.
+Player #204(95,43) died.
+Player #205(79,91) died.
+Player #208(97,33) died.
+Player #216(65,5) died.
+Player #221(46,46) died.
+Player #222(95,76) died.
+Player #230(60,10) died.
+Player #238(68,36) died.
+Player #244(77,12) died.
+Player #245(95,20) died.
+Player #251(58,100) died.
+Player #256(67,33) died.
+Player #258(99,42) died.
+Player #266(87,8) died.
+Player #268(72,87) died.
+Player #270(73,93) died.
+Player #273(60,14) died.
+Player #276(80,25) died.
+Player #290(100,2) died.
+Player #297(91,55) died.
+Player #298(91,90) died.
+Player #300(66,65) died.
+Player #301(96,25) died.
+Player #313(83,29) died.
+Player #314(57,97) died.
+Player #315(57,2) died.
+Player #329(71,40) died.
+Player #341(87,2) died.
+Player #349(86,54) died.
+Player #370(25,99) died.
+Player #371(84,52) died.
+Player #377(67,26) died.
+Player #380(83,35) died.
+Player #384(53,59) died.
+Player #387(45,37) died.
+Player #391(73,96) died.
+Player #407(74,3) died.
+Player #412(76,65) died.
+Player #417(95,56) died.
+Player #420(44,33) died.
+Player #429(66,7) died.
+Player #436(76,32) died.
+Player #445(77,88) died.
+Player #451(90,91) died.
+Player #1(54,68) is alive.
+Player #7(48,50) is alive.
+Player #8(62,85) is alive.
+Player #16(41,76) is alive.
+Player #17(90,66) is alive.
+Player #19(96,60) is alive.
+Player #28(44,14) is alive.
+Player #38(82,10) is alive.
+Player #45(81,48) is alive.
+Player #58(75,95) is alive.
+Player #71(93,88) is alive.
+Player #91(52,54) is alive.
+Player #94(47,4) is alive.
+Player #106(78,15) is alive.
+Player #107(78,1) is alive.
+Player #113(94,36) is alive.
+Player #120(75,23) is alive.
+Player #128(90,93) is alive.
+Player #129(37,90) is alive.
+Player #136(67,30) is alive.
+Player #139(68,2) is alive.
+Player #142(87,60) is alive.
+Player #145(75,6) is alive.
+Player #148(63,27) is alive.
+Player #157(90,53) is alive.
+Player #160(82,85) is alive.
+Player #162(67,8) is alive.
+Player #164(43,29) is alive.
+Player #167(89,29) is alive.
+Player #172(63,24) is alive.
+Player #181(52,82) is alive.
+Player #182(41,62) is alive.
+Player #185(57,88) is alive.
+Player #209(38,59) is alive.
+Player #210(79,67) is alive.
+Player #211(91,47) is alive.
+Player #215(66,20) is alive.
+Player #218(88,88) is alive.
+Player #249(90,3) is alive.
+Player #261(60,26) is alive.
+Player #272(62,85) is alive.
+Player #281(97,88) is alive.
+Player #286(50,0) is alive.
+Player #287(54,42) is alive.
+Player #288(96,56) is alive.
+Player #289(97,41) is alive.
+Player #291(54,12) is alive.
+Player #294(54,7) is alive.
+Player #296(28,93) is alive.
+Player #307(83,33) is alive.
+Player #311(57,76) is alive.
+Player #312(54,69) is alive.
+Player #318(84,80) is alive.
+Player #321(90,5) is alive.
+Player #325(61,85) is alive.
+Player #326(49,21) is alive.
+Player #327(69,63) is alive.
+Player #330(82,41) is alive.
+Player #333(48,21) is alive.
+Player #336(89,30) is alive.
+Player #343(76,39) is alive.
+Player #345(74,8) is alive.
+Player #355(66,45) is alive.
+Player #357(62,11) is alive.
+Player #358(59,98) is alive.
+Player #360(36,59) is alive.
+Player #364(47,18) is alive.
+Player #368(92,1) is alive.
+Player #372(88,99) is alive.
+Player #374(60,76) is alive.
+Player #383(61,65) is alive.
+Player #385(86,15) is alive.
+Player #388(95,30) is alive.
+Player #390(96,85) is alive.
+Player #405(49,96) is alive.
+Player #415(83,15) is alive.
+Player #423(75,60) is alive.
+Player #425(62,95) is alive.
+Player #438(64,2) is alive.
+Player #446(96,18) is alive.
+Player #447(39,99) is alive.
+Player #448(95,96) is alive.
+Player #455(91,97) is alive.
+83 players are alive.
+
+[[[Red Light Green Light]]]
+[Turn #1]
+Player #113(94,36) fell down and died.
+Player #288(96,56) fell down and died.
+Player #318(84,80) fell down and died.
+Player #358(59,98) fell down and died.
+Player #372(88,99) fell down and died.
+[Turn #2]
+Player #28(44,14) fell down and died.
+Player #164(43,29) fell down and died.
+Player #327(69,63) fell down and died.
+Player #447(39,99) fell down and died.
+[Turn #3]
+Player #128(90,93) fell down and died.
+Player #272(62,85) fell down and died.
+Player #374(60,76) fell down and died.
+[Turn #4]
+Player #181(52,82) fell down and died.
+Player #218(88,88) fell down and died.
+Player #425(62,95) fell down and died.
+[Turn #5]
+Player #1(54,68) fell down and died.
+Player #8(62,85) fell down and died.
+Player #17(90,66) fell down and died.
+[Turn #6]
+Player #71(93,88) safely escaped from the ground.
+Player #281(97,88) safely escaped from the ground.
+Player #390(96,85) safely escaped from the ground.
+Player #448(95,96) safely escaped from the ground.
+Player #455(91,97) safely escaped from the ground.
+[Turn #7]
+Player #58(75,95) safely escaped from the ground.
+Player #291(54,12) fell down and died.
+Player #388(95,30) fell down and died.
+[Turn #8]
+Player #19(96,60) safely escaped from the ground.
+Player #129(37,90) fell down and died.
+Player #142(87,60) safely escaped from the ground.
+Player #157(90,53) safely escaped from the ground.
+Player #160(82,85) safely escaped from the ground.
+Player #167(89,29) fell down and died.
+Player #330(82,41) fell down and died.
+Player #383(61,65) fell down and died.
+Player #405(49,96) fell down and died.
+[Turn #9]
+Player #185(57,88) safely escaped from the ground.
+Player #211(91,47) safely escaped from the ground.
+Player #289(97,41) safely escaped from the ground.
+[Turn #10]
+Player #45(81,48) safely escaped from the ground.
+Player #325(61,85) safely escaped from the ground.
+Player #336(89,30) safely escaped from the ground.
+Player #446(96,18) safely escaped from the ground.
+[Game Over]
+Player #7(48,50) is still on the ground and died.
+Player #16(41,76) is still on the ground and died.
+Player #38(82,10) is still on the ground and died.
+Player #91(52,54) is still on the ground and died.
+Player #94(47,4) is still on the ground and died.
+Player #106(78,15) is still on the ground and died.
+Player #107(78,1) is still on the ground and died.
+Player #120(75,23) is still on the ground and died.
+Player #136(67,30) is still on the ground and died.
+Player #139(68,2) is still on the ground and died.
+Player #145(75,6) is still on the ground and died.
+Player #148(63,27) is still on the ground and died.
+Player #162(67,8) is still on the ground and died.
+Player #172(63,24) is still on the ground and died.
+Player #182(41,62) is still on the ground and died.
+Player #209(38,59) is still on the ground and died.
+Player #210(79,67) is still on the ground and died.
+Player #215(66,20) is still on the ground and died.
+Player #249(90,3) is still on the ground and died.
+Player #261(60,26) is still on the ground and died.
+Player #286(50,0) is still on the ground and died.
+Player #287(54,42) is still on the ground and died.
+Player #294(54,7) is still on the ground and died.
+Player #296(28,93) is still on the ground and died.
+Player #307(83,33) is still on the ground and died.
+Player #311(57,76) is still on the ground and died.
+Player #312(54,69) is still on the ground and died.
+Player #321(90,5) is still on the ground and died.
+Player #326(49,21) is still on the ground and died.
+Player #333(48,21) is still on the ground and died.
+Player #343(76,39) is still on the ground and died.
+Player #345(74,8) is still on the ground and died.
+Player #355(66,45) is still on the ground and died.
+Player #357(62,11) is still on the ground and died.
+Player #360(36,59) is still on the ground and died.
+Player #364(47,18) is still on the ground and died.
+Player #368(92,1) is still on the ground and died.
+Player #385(86,15) is still on the ground and died.
+Player #415(83,15) is still on the ground and died.
+Player #423(75,60) is still on the ground and died.
+Player #438(64,2) is still on the ground and died.
+Player #19(96,60) is alive.
+Player #45(81,48) is alive.
+Player #58(75,95) is alive.
+Player #71(93,88) is alive.
+Player #142(87,60) is alive.
+Player #157(90,53) is alive.
+Player #160(82,85) is alive.
+Player #185(57,88) is alive.
+Player #211(91,47) is alive.
+Player #281(97,88) is alive.
+Player #289(97,41) is alive.
+Player #325(61,85) is alive.
+Player #336(89,30) is alive.
+Player #390(96,85) is alive.
+Player #446(96,18) is alive.
+Player #448(95,96) is alive.
+Player #455(91,97) is alive.
+17 players are alive.

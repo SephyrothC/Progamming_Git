@@ -10,9 +10,22 @@ The `Player` struct represents a player in the game, with fields for the player'
 
 The `Game` class is an abstract base class that represents a game in the series. It has a pure virtual function `play()`, which is overridden in each subclass to implement the logic of the game.
 
-## Game Subclasses
+### Game Subclasses
 
 The subclasses `RedLightGreenLight`, `TugOfWar`, and `RockPaperScissors` represent the respective games from the series. Each subclass overrides the `play()` function to implement the game's rules.
+
+### Red Light Green Light
+
+In this game, players must move from a start line to a finish line while a 'guard' is not looking. If a player is caught moving while the 'guard' is looking, they are eliminated from the game. In the code, this is simulated by generating a random 'game score' and comparing it to each player's score, which is a combination of a random number, their luck, and their agility. If a player's score is less than the game score, they are marked as dead.
+
+### Tug Of War
+
+This game involves two teams pulling at opposite ends of a rope. The team that pulls the other over a line in the middle is the winner, and the losing team is eliminated. In the code, two teams are formed from the remaining players, and the total strength and luck of each team are calculated. The team with the lower strength loses, but if the strengths are equal, the team with the lower luck loses. If both strength and luck are equal, one team is chosen randomly to lose. All players in the losing team are marked as dead.
+
+## Rock Paper Scissors
+
+In this game, each player chooses rock, paper, or scissors. Rock beats scissors, scissors beat paper, and paper beats rock. If both players choose the same, it's a tie. In the code, two players are chosen randomly from the remaining players, and each makes a move (rock, paper, or scissors). The winner is determined based on the rules of Rock Paper Scissors. In case of a tie, the player with the higher luck wins. If both players have the same luck, one player is chosen randomly to lose. The losing player is marked as dead.
+
 
 ## Main Function
 

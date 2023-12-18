@@ -1,0 +1,23 @@
+# Squid Game Simulation
+
+This project is a simulation of the games from the series "Squid Game". It's written in C++ and uses object-oriented programming principles. The code includes a `Player` struct and a `Game` abstract class, along with subclasses for each game.
+
+## Player Struct
+
+The `Player` struct represents a player in the game, with fields for the player's name, agility, strength, luck, and a boolean to indicate if the player is alive.
+
+## Game Class
+
+The `Game` class is an abstract base class that represents a game in the series. It has a pure virtual function `play()`, which is overridden in each subclass to implement the logic of the game.
+
+## Game Subclasses
+
+The subclasses `RedLightGreenLight`, `TugOfWar`, and `RockPaperScissors` represent the respective games from the series. Each subclass overrides the `play()` function to implement the game's rules.
+
+## Main Function
+
+In the `main()` function, 456 players are created with random stats. Then, a loop simulates the games until only one player is left alive. After each game, the code prints out the number of players still alive and the number of players who died in that game.
+
+## Note
+
+This code is a simplified simulation and does not account for all the nuances of the games in the series. It uses the `rand()` function to generate random numbers, which is not recommended for simulations requiring a high degree of precision or security.

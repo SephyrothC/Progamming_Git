@@ -6,6 +6,7 @@ This project is a simulation of the games from the series "Squid Game". It's wri
 
 - [Squid Game Simulation](#squid-game-simulation)
 - [Summury](#summury)
+  - [Launch](#launch)
   - [Player Struct](#player-struct)
   - [Game Class](#game-class)
   - [Game Subclasses](#game-subclasses)
@@ -16,6 +17,10 @@ This project is a simulation of the games from the series "Squid Game". It's wri
   - [Note](#note)
   - [Example](#example)
   - [Copyright](#copyright)
+
+## Launch 
+
+To launch the project I use Linux/WSL (no .exe sorry) to lunch the project you just need to use the command line `./SquidGame` on your WSL. 
 
 ## Player Struct
 
